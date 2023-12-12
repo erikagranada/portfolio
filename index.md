@@ -28,46 +28,7 @@ Over the last few years, I have worked with software development teams, creating
 
 |**Core skills**|**Content**|**Tools**|
 |---------------|-----------|---------|
-|<li>Technical communication</li><br><li>Content strategy</li><br><li>Information architecture</li><br><li>Product documentation</li><br><li>UX writing</li><br><li>Content design and development</li>|<li>Implementation guides</li><br><li>Online help</li><br><li>User guides</li><br><li>Release notes</li><br><li>Technical specifications</li><br><li>Wikis</li><br><li>Product content</li><br><li>Process documentation</li>|<li>oXyGen XML Editor</li><br><li>Text editors, such as Visual Studio Code</li><br><li>Microsoft Office and Google Workspace</li><br><li>Confluence</li><br><li>JIRA</li><br><li>Markdown</li><br><li>DITA</li><br><li>Git</li>|
-
-<table>
-  <tr>
-    <th>Core skills</th>
-    <td>Technical communication</td>
-    <td>Content strategy</td>
-    <td>Information architecture</td>
-    <td>Product documentation</td>
-    <td>UX writing</td>
-    <td>Content design and development</td>
-  </tr>
-  <tr>
-    <th>Content</th>
-    <td>
-        <ul>
-        <li>Implementation guides</li>
-        <li>Online help</li>
-        <li>User guides</li>
-        <li>Release notes</li>
-        <li>Technical specifications</li>
-        <li>Wikis</li>
-        <li>Product content</li>
-        <li>Process documentation</li>
-        </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Tools</th>
-    <td>oXyGen XML Editor</td>
-    <td>Text editors, such as Visual Studio Code</td>
-    <td>Microsoft Office and Google Workspace</td>
-    <td>Confluence</td>
-    <td>JIRA</td>
-    <td>Markdown</td>
-    <td>DITA</td>
-    <td>Git</td>
-  </tr>
-</table>
-
+|<li>Technical communication</li><li>Content strategy</li><li>Information architecture</li><li>Product documentation</li><li>UX writing</li><li>Content design and development</li>|<li>Implementation guides</li><li>Online help</li><li>User guides</li><li>Release notes</li><li>Technical specifications</li><li>Wikis</li><li>Product content</li><li>Process documentation</li>|<li>oXyGen XML Editor</li><li>Text editors, such as Visual Studio Code</li><li>Microsoft Office and Google Workspace</li><li>Confluence</li><li>JIRA</li><li>Markdown</li><li>DITA</li><li>Git</li>|
 
 ---
 
