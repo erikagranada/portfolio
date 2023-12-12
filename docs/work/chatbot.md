@@ -2,7 +2,6 @@
 title: Designing a chatbot
 layout: default
 parent: Work 
-nav_exclude: true
 ---
 
 # Designing a chatbot
