@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 layout: home
 ---
 
@@ -20,6 +20,10 @@ Over the last few years, I have worked with software development teams, creating
 
 [LinkedIn]
 [GitHub]
+
+# Skills
+
+
 
 ----
 
