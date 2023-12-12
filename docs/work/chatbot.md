@@ -1,8 +1,8 @@
 ---
-title: Conversation Design
+title: Designing a chatbot
 layout: default
 parent: Work 
-nav_order: 2
+nav_exclude: true
 ---
 
 # Designing a chatbot
