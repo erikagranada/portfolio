@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+# Erika Granada
+
 Hi, I go by "Era".
 
 I have 6 years' experience as a content specialist, including nearly 3 years in technical writing
