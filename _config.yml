@@ -19,13 +19,18 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.3"
 
-# External navigation links
+# Links
+
+## External navigation
 nav_external_links:
   - title: CV
     url: https://drive.google.com/file/d/1i7kB3XiHvR0diQ2OeI_oL2uvqSSkhncu/view?usp=drive_link
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
     nav_order: 4
+
+## Heading anchor links
+heading_anchors: true
 
 # Footer content
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
