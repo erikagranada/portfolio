@@ -7,8 +7,7 @@ url: https://erikagranada.github.io/portfolio
 # Configuration
 
 # Images
-#logo: "/assets/images/logo.png"
- favicon_ico: "/assets/images/logo.png"
+favicon_ico: "/assets/images/logo.png"
 
 # Search
 search_enabled: true
@@ -21,7 +20,7 @@ mermaid:
 
 # Links
 
-## External navigation
+# External navigation
 nav_external_links:
   - title: CV
     url: https://drive.google.com/file/d/1i7kB3XiHvR0diQ2OeI_oL2uvqSSkhncu/view?usp=drive_link
@@ -29,12 +28,8 @@ nav_external_links:
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
     nav_order: 4
 
-## Heading anchor links
+# Heading anchor links
 heading_anchors: true
-
-# Footer content
-last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Callouts
 callouts:
