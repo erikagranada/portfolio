@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
 # Erika Granada
@@ -18,12 +18,12 @@ I am currently a Senior Technical Writer in the Connections and Domino teams at 
 
 Over the last few years, I have worked with software development teams, creating technical specifications and content for developer portals.
 
-[LinkedIn]
-[GitHub]
+[LinkedIn]: https://www.linkedin.com/in/erikagranada/
+[GitHub]: https://github.com/erikagranada
 
 # Skills
 
-## CORE SKILLS
+**Core skills**
 
 - Technical communication
 - Content strategy
@@ -32,7 +32,7 @@ Over the last few years, I have worked with software development teams, creating
 - UX Writing
 - Content design and development
 
-## CONTENT
+**Content**
 
 - Implementation guides
 - Online help
@@ -43,7 +43,7 @@ Over the last few years, I have worked with software development teams, creating
 - Product content
 - Process documentation
 
-## TOOLS
+**Tools**
 
 - oXyGen XML Editor
 - Text editors
@@ -74,8 +74,3 @@ VOYAGIN (NOW RAKUTEN) | Oct 2019 – Mar 2020
 Associate Publishing Specialist
 THOMSON REUTERS | May 2017 – Apr 2019
 Planned and created reference material of in-house processes, procedures, and other content for Westlaw legal projects.
-
-----
-
-[LinkedIn]: https://www.linkedin.com/in/erikagranada/
-[GitHub]: https://github.com/erikagranada
