@@ -6,9 +6,9 @@ url: https://erikagranada.github.io/portfolio
 
 # Configuration
 
-## Images
-logo: "/assets/images/logo.png"
-favicon_ico: "/assets/images/logo.png"
+# Images
+# logo: "/assets/images/logo.png"
+# favicon_ico: "/assets/images/logo.png"
 
 # Search
 search_enabled: true
