@@ -22,62 +22,79 @@ Over the last few years, I have worked with software development teams, creating
 [LinkedIn]: https://www.linkedin.com/in/erikagranada/
 [GitHub]: https://github.com/erikagranada
 
+---
+
 # Skills
 
-**Core skills**
+|**Core skills**|**Content**|**Tools**|
+|---------------|-----------|---------|
+|<ul><li>Technical communication</li><br><li>Content strategy</li><br><li>Information architecture</li><br><li>Product documentation</li><br><li>UX writing</li><br><li>Content design and development</li></ul>|<ul><li>Implementation guides</li><br><li>Online help</li><br><li>User guides</li><br><li>Release notes</li><br><li>Technical specifications</li><br><li>Wikis</li><br><li>Product content</li><br><li>Process documentation</li></ul>|<ul><li>oXyGen XML Editor</li><br><li>Text editors, such as Visual Studio Code</li><br><li>Microsoft Office and Google Workspace</li><br><li>Confluence</li><br><li>JIRA</li><br><li>Markdown</li><br><li>DITA</li><br><li>Git</li></ul>|
 
-- Technical communication
-- Content strategy
-- Information architecture
-- Product documentation
-- UX Writing
-- Content design and development
+<table>
+  <tr>
+    <th>Core skills</th>
+    <td>Technical communication</td>
+    <td>Content strategy</td>
+    <td>Information architecture</td>
+    <td>Product documentation</td>
+    <td>UX writing</td>
+    <td>Content design and development</td>
+  </tr>
+  <tr>
+    <th>Content</th>
+    <td>Implementation guides</td>
+    <td>Online help</td>
+    <td>User guides</td>
+    <td>Release notes</td>
+    <td>Technical specifications</td>
+    <td>Wikis</td>
+    <td>Product content</td>
+    <td>Process documentation</td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>oXyGen XML Editor</td>
+    <td>Text editors, such as Visual Studio Code</td>
+    <td>Microsoft Office and Google Workspace</td>
+    <td>Confluence</td>
+    <td>JIRA</td>
+    <td>Markdown</td>
+    <td>DITA</td>
+    <td>Git</td>
+  </tr>
+</table>
 
-**Content**
 
-- Implementation guides
-- Online help
-- User guides
-- Release notes
-- Technical specifications
-- Wikis
-- Product content
-- Process documentation
-
-**Tools**
-
-- oXyGen XML Editor
-- Text editors
-- MS Office
-- Confluence
-- JIRA
-- Markdown
-- Git
+---
 
 # Experience
 
-**Senior Technical Writer**
+### Senior Technical Writer
 
-HCL SOFTWARE / Mar 2022 – Present
+**HCL Software** / *Mar 2022 – Present*
 
-Collaborate with, and support the Connections and Domino engineering team, to create and maintain customer-facing product and technical content (help, release notes, feature guides), involving a docs-like-code approach.
+- Collaborate with, and support the Connections and Domino engineering team, to create and maintain customer-facing product and technical content (help, release notes, feature guides), involving a docs-like-code approach.
 
-**Technical Writer**
+### Technical Writer
 
-GOOGLE OPERATIONS CENTRE (GOC) / Mar 2021 – Feb 2022
+**Google Operations Center (GOC)** / *Mar 2021 – Feb 2022*
 
-Planned, edited, and created product documentation for Google Ads online help portals. Documented processes for in-house operations. Scoped, designed and created a Tech Writer Handbook.
+- Planned, edited, and created product documentation for Google Ads online help portals. Documented processes for in-house operations. Scoped, designed and created a Tech Writer Handbook.
 
-**Content Writer** (Contract)
+### Content Writer (Contract)
 
-ZANUI / Oct 2020 – Feb 2021
+**Zanui** / *Oct 2020 – Feb 2021*
 
-**Content Writer** (Contract)
+- Wrote and edited product copy, including interface copy, for Zanui Australia's e-commerce website.
 
-VOYAGIN (NOW RAKUTEN) / Oct 2019 – Mar 2020
+### Content Writer (Contract)
 
-**Associate Publishing Specialist**
+**Voyagin (now merged with Rakuten)** / *Oct 2019 – Mar 2020*
 
-THOMSON REUTERS / May 2017 – Apr 2019
+- Created product descriptions for lifestyle, travel, and leisure activities, coordinating with Japanese clients. Also handled page UX and multimedia.
 
-Planned and created reference material of in-house processes, procedures, and other content for Westlaw legal projects.
+### Associate Publishing Specialist
+
+**Thomson Reuters** / *May 2017 – Apr 2019*
+
+- Planned and created reference material of in-house processes, procedures, and other content for Westlaw legal projects.
