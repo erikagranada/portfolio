@@ -28,7 +28,7 @@ Over the last few years, I have worked with software development teams, creating
 
 |**Core skills**|**Content**|**Tools**|
 |---------------|-----------|---------|
-|<li>Technical communication</li><li>Content strategy</li><li>Information architecture</li><li>Product documentation</li><li>UX writing</li><li>Content design and development</li>|<li>Implementation guides</li><li>Online help</li><li>User guides</li><li>Release notes</li><li>Technical specifications</li><li>Wikis</li><li>Product content</li><li>Process documentation</li>|<li>oXyGen XML Editor</li><li>Text editors, such as Visual Studio Code</li><li>Microsoft Office and Google Workspace</li><li>Confluence</li><li>JIRA</li><li>Markdown</li><li>DITA</li><li>Git</li>|
+|<ul><li>Technical communication</li><li>Content strategy</li><li>Information architecture</li><li>Product documentation</li><li>UX writing</li><li>Content design and development</li></ul>|<ul><li>Implementation guides</li><li>Online help</li><li>User guides</li><li>Release notes</li><li>Technical specifications</li><li>Wikis</li><li>Product content</li><li>Process documentation</li></ul>|<ul><li>oXyGen XML Editor</li><li>Text editors, such as Visual Studio Code</li><li>Microsoft Office and Google Workspace</li><li>Confluence</li><li>JIRA</li><li>Markdown</li><li>DITA</li><li>Git</li></ul>|
 
 ---
 
