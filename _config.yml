@@ -3,3 +3,38 @@ description: Documentation, UX, and copy writing portfolio.
 theme: just-the-docs
 
 url: https://erikagranada.github.io/portfolio
+
+# Configuration
+
+## Images
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/logo.png"
+
+# Search
+search_enabled: true
+
+# Diagrams
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+# External navigation links
+nav_external_links:
+  - title: CV
+    url: https://drive.google.com/file/d/1i7kB3XiHvR0diQ2OeI_oL2uvqSSkhncu/view?usp=drive_link
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+# Footer content
+last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: grey-lt
