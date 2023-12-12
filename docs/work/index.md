@@ -6,3 +6,7 @@ has_children: true
 ---
 
 # Work 
+
+## Conversation design
+
+- [Designing a chatbot](../work/chatbot.md)
