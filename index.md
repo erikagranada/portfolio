@@ -1,65 +1,50 @@
 ---
-title: Home
-layout: default
+title: Overview
+layout: home
 nav_order: 1
 ---
 
-# About
+Hello, my name's Era.
 
-Hi, my name's Era.
+I have 5 years of experience in content, including a few years in technical writing:
 
-I have 6 years' experience as a content specialist, including nearly 3 years in technical writing
-
-- Scoping and creating user and admin documentation
-- Designing information architecture strategies
+- Scoping and creating documentation
+- Designing information architecture strategy
 - Crafting in-product copy
-- Managing localisation projects
 
-I am currently a Senior Technical Writer in the Connections and Domino teams at HCL Software, handling former IBM products.
+Over the last two years, I have worked with software development teams, creating content for developer and user portals, as well as product interface.
 
-Over the last few years, I have worked with software development teams, creating technical specifications and content for developer portals. I'm interested in creating product or service experiences with development/design companies that value inclusivity, diversity, and learning.
+Currently, I'm a Technical Writer in the Connections and Domino teams at HCL Software.
 
 [LinkedIn]: https://www.linkedin.com/in/erikagranada/
 [GitHub]: https://github.com/erikagranada
 
----
+## Core skills
 
-# Skills
+- Technical communication
+- Content strategy
+- Information architecture
+- User and admin documentation
+- UX writing
+- Content design and development
 
-|Core skills|Content|Tools|
-|---------------|-----------|---------|
-|✦ Technical communication<br> ✦ Content strategy<br> ✦ Information architecture<br> ✦ Product documentation<br>✦ UX writing<br>✦ Content design and development|✦ Implementation guides<br>✦ Online help<br>✦ User guides<br>✦ Release notes<br>✦ Technical specifications<br>✦ Wikis<br>✦ Product content<br>✦ Process documentation|✦ oXyGen XML Editor<br>✦ Text editors, such as Visual Studio Code<br>✦ Microsoft Office and Google Workspace<br>✦ Confluence<br>✦ JIRA<br>✦ Markdown<br>✦ DITA<br>✦ Git|
+## Content
 
----
+- Implementation guides
+- Online help
+- User guides
+- Release notes
+- Technical specifications or system requirements
+- Knowledge base documentation
+- Internal wikis or process documentation
+- In-product content
 
-# Experience
+## Tools and technologies
 
-### Senior Technical Writer
-
-**HCL Software** / *Mar 2022 – Present*
-
-- Collaborate with, and support the Connections and Domino engineering team, to create and maintain customer-facing product and technical content (help, release notes, feature guides), involving a docs-like-code approach.
-
-### Technical Writer
-
-**Google Operations Center (GOC)** / *Mar 2021 – Feb 2022*
-
-- Planned, edited, and created product documentation for Google Ads online help portals. Documented processes for in-house operations. Scoped, designed and created a Tech Writer Handbook.
-
-### Content Writer (Contract)
-
-**Zanui** / *Oct 2020 – Feb 2021*
-
-- Wrote and edited product copy, including interface copy, for Zanui Australia's e-commerce website.
-
-### Content Writer (Contract)
-
-**Voyagin (now merged with Rakuten)** / *Oct 2019 – Mar 2020*
-
-- Created product descriptions for lifestyle, travel, and leisure activities, coordinating with Japanese clients. Also handled page UX and multimedia.
-
-### Associate Publishing Specialist
-
-**Thomson Reuters** / *May 2017 – Apr 2019*
-
-- Planned and created reference material of in-house processes, procedures, and other content for Westlaw legal projects.
+- _Markup languages_: DITA XML, Markdown, HTML
+- _Docs as code_: Git, MkDocs/Material for MkDocs, Just the Docs, Docusaurus
+- _Authoring_: oXygen XML, Visual Studio Code
+- _Design_: Figma, Sketch, Voiceflow, Adobe Illustrator, Photoshop, InDesign, SnagIt
+- _SEO_: Ahrefs, basic onsite optimisation
+- _Knowledge management_: Confluence, ServiceNow Knowledge Base articles
+- _Project management_: Jira, Asana, Trello
