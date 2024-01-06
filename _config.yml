@@ -46,14 +46,3 @@ callouts:
   note:
     title: Note
     color: grey-lt
-
-# Nav
-nav:
-- page: About
-  permalink: #about
-
-- page: Skills
-  permalink: #skills
-
-- page: Experience
-  permalink: #experience
