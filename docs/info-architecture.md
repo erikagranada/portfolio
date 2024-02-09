@@ -1,3 +1,9 @@
+---
+layout: default
+title: Information architecture
+nav_order: 5
+---
+
 # Information architecture
 
 ## Migrating and reworking content migration
