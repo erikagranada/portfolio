@@ -4,7 +4,7 @@ title: Conceptual content
 nav_order: 3
 ---
 
-# Explainer content
+# Conceptual content
 
 ## Introducing a platform banner
 
