@@ -1,5 +1,5 @@
 title: Erika Granada
-description: Documentation, UX, and copy writing portfolio.
+description: Information development and design.
 theme: just-the-docs
 
 url: https://erikagranada.github.io/portfolio
@@ -21,19 +21,12 @@ mermaid:
 # Links
 
 # External navigation
-nav_external_links:
-  - title: CV
-    url: https://drive.google.com/file/d/1i7kB3XiHvR0diQ2OeI_oL2uvqSSkhncu/view?usp=drive_link
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-    nav_order: 4
-  - title: View MkDocs site
-    url: 
-    opens_in_new_tab: true
-    nav_order: 5
-  - title: View Docusaurus site
-    opens_in_new_tab: true
-    nav_order: 6
+# nav_external_links:
+#  - title: CV
+#    url: https://drive.google.com/file/d/1i7kB3XiHvR0diQ2OeI_oL2uvqSSkhncu/view?usp=drive_link
+#    hide_icon: false # set to true to hide the external link icon - defaults to false
+#    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+#    nav_order: 4
 
 # Heading anchor links
 heading_anchors: true
