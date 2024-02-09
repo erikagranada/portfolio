@@ -6,18 +6,13 @@ nav_order: 1
 
 Hello, my name's Era.
 
-I have 5 years of experience in content, including a few years in technical writing:
+I have 6 years of experience in content, including a few years in technical writing:
 
-- Scoping and creating documentation
-- Designing information architecture strategy
-- Crafting in-product copy
-
-Over the last two years, I have worked with software development teams, creating content for developer and user portals, as well as product interface.
+- Scoping content needs and creating documentation
+- Designing and developing information tailored to the appropriate audience
+- Crafting in-product messaging for end-user interfaces
 
 Currently, I'm a Technical Writer in the Connections and Domino teams at HCL Software.
-
-[LinkedIn]: https://www.linkedin.com/in/erikagranada/
-[GitHub]: https://github.com/erikagranada
 
 ## Core skills
 
@@ -41,10 +36,10 @@ Currently, I'm a Technical Writer in the Connections and Domino teams at HCL Sof
 
 ## Tools and technologies
 
-- _Markup languages_: DITA XML, Markdown, HTML
-- _Docs as code_: Git, MkDocs/Material for MkDocs, Just the Docs, Docusaurus
-- _Authoring_: oXygen XML, Visual Studio Code
-- _Design_: Figma, Sketch, Voiceflow, Adobe Illustrator, Photoshop, InDesign, SnagIt
-- _SEO_: Ahrefs, basic onsite optimisation
-- _Knowledge management_: Confluence, ServiceNow Knowledge Base articles
-- _Project management_: Jira, Asana, Trello
+- DITA XML, Markdown, HTML
+- Docs-as-code, Git, MkDocs/Material for MkDocs
+- oXygen XML, Visual Studio Code
+- Figma, Sketch, Voiceflow, Adobe Illustrator, Photoshop, InDesign, SnagIt
+- Ahrefs, basic onsite optimisation
+- Confluence, ServiceNow Knowledge Base articles
+- Jira, Asana, Trello
