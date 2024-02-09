@@ -1,4 +1,10 @@
-# Release communications
+---
+layout: default
+title: Release notes
+nav_order: 4
+---
+
+# Release notes
 
 ## What’s new in Connections 8.0?
 
