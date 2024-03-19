@@ -1,24 +1,26 @@
 ---
 layout: default
-title: Information architecture
+title: Content migration
 nav_order: 5
 ---
 
-# Information architecture
+# Information architecture: Migrating and reworking Markdown content
 
-## Migrating and reworking content migration
-
-### Context
+## Context
 
 The way of customising the HCL Connections UI changed with the 8.0 release (which had a UI redesign). Developers decided to house the new content in a Git repository to enable developers and users to create pull requests. Due to a lack of alignment, the documentation was outdated and the new repository was hard to reach for customers looking to the documentation for guidance.
 
-### Contribution
+## Contribution
 
 Speaking with the developer to learn the background of the separate Git repository, we agreed it was best to migrate the new content from Git to the documentation site, thereby also transferring ownership of the content. Some of the reasons for this decision included lack of content governance and standards. I organised the effort in the following way, the end goal being to merge the two sets of content into a single comprehensive source of truth.
 
-*Filter content.* I first audited the existing documentation, keeping close communication with the developer to identify which customisations/content no longer applied and why.
+My approach for this plan was as follows:
 
-*Build the puzzle.* Once I identified which content to keep, I found a place for each one in the developer’s Git repository and cleaned up the content along the way. I found the repository overall felt disjointed, having a weak structure, inconsistent writing, and a format that was not user friendly— for instance, the file names made it hard to gauge the context of the content at a glance.
+  - I first audited the existing documentation, keeping close communication with the developer to identify which customisations/content no longer applied and why.
+
+  - Once I identified which content to keep, created clear content groupings. I found the original content to be disjointed, structurally weak, inconsistent, and not user friendly.
+
+### Outcome
 
 |Before|After|
 |------|-----|
