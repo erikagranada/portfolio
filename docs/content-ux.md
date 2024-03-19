@@ -1,8 +1,14 @@
+---
+layout: default
+title: Improving content usability
+nav_order: 6
+---
+
 # Improving content usability
 
 ## Overview
 
-## Problems
+### Problems
 
 1. **Increased complexity.** The approach to installing and upgrading the product add-on called “Component Pack” has become more complex. Instead of a universal path, there are now multiple methods. 
 
