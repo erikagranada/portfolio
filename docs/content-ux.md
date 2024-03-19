@@ -18,6 +18,22 @@
 
 3. **Simplify.** Remove duplicate content and leverage side navigation.
 
+#### Before
+
+![Screenshot of step-by-step list](before-1.png)
+
+This doesn’t contextualise the information, so a user wouldn’t know what to do. To be more usable and useful, why not just link to each corresponding section of the document?
+
+![Screenshot of table](before-2.png)
+
+This version (on another page) is useful but because it’s a long document, going back and forth between this ordered list and the actual instructions is a pain, even for myself and the developers.
+
+#### After
+
+![Screenshot of revised guide](table-after.png)
+
+Easier to scan. Easier to maintain. Easier to go through. Just easy.
+
 ## Results
 
 - Clearer guidance for customers, resulting to reduced to no customer support tickets.
