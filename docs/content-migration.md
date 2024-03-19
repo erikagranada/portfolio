@@ -6,7 +6,7 @@ nav_order: 5
 
 # Information architecture: Migrating and reworking Markdown content
 
-**Tools**: Markdown, GitHub, DITA, oXygen XML
+**Tools**: Markdown, GitHub, DITA, oXygen XML, Mkdocs command line builds, Visual Studio Code
 
 **SMEs**: Squad lead, support engineer
 
