@@ -6,6 +6,10 @@ nav_order: 6
 
 # Improving content usability
 
+**Tools**: Markdown, GitHub, DITA, oXygen XML, Mkdocs command line build
+
+**SMEs**: Squad lead and software developer
+
 ## Overview
 
 ### Problems
