@@ -8,6 +8,10 @@ nav_order: 4
 
 ## What’s new in Connections 8.0?
 
+**Tools**: Markdown, GitHub, DITA, oXygen XML, Mkdocs command line builds, Visual Studio Code
+
+**SMEs**: Software developers, product managers, support engineers, release manager
+
 ### Context
 
 The biggest change in HCL Connections 8.0 was the UI redesign. The facelift not only overhauled the product’s past styling, but also added features and functionalities for users.
