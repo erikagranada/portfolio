@@ -6,6 +6,10 @@ nav_order: 3
 
 # Information rearchitecture
 
+**Tools**: DITA, oXygen XML, Jenkins build, oXygen DITA to HTML conversion, AWS IAM S3 upload
+
+**SMEs**: Squad lead
+
 ## Problem
 
 The documentation for HCL Connections’ Communities app is large and disorderly, which makes it difficult for writers, developers, and customers to use and maintain the content.
