@@ -1,4 +1,10 @@
-# Informational re-architecture
+---
+layout: default
+title: Information rearchitecture
+nav_order: 3
+---
+
+# Information rearchitecture
 
 ## Problem
 
