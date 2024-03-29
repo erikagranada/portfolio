@@ -34,5 +34,5 @@ Through a card sorting and tree testing exercise, I streamlined the content cate
 
 |Before|After|
 |--|--|
-|[View on the HCL Connections 7.0 website](https://help.hcltechsw.com/connections/v7/user/communities/cframe.html)|[View on the HCL Connections 8.0 website](View on the HCL Connections 8.0 website)
+|[View on the HCL Connections 7.0 website](https://help.hcltechsw.com/connections/v7/user/communities/cframe.html)|[View on the HCL Connections 8.0 website](https://opensource.hcltechsw.com/connections-doc/v8/user/communities/cframe.html))
 
